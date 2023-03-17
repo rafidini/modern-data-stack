@@ -19,3 +19,8 @@ To ensure that contributions are high-quality and consistent, please follow thes
 * All documentation contributions must follow the documentation style and best practices outlined in the repository.
 * All contributors must adhere to the project's Code of Conduct.
 
+# Conventions
+
+* Commits    : [Conventional Commits 1.0.0](https://www.conventionalcommits.org/en/v1.0.0/)
+* Changelog  : [Keep A Changelog 1.0.0](https://keepachangelog.com/en/1.0.0/)
+* Versioning : [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html)
