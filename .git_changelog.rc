@@ -1,0 +1,6 @@
+format=markdown
+template=keepachangelog
+log_args=--no-merges
+commit_args=--pretty=format:'* %h %s'
+group=type
+type_map=docs:Documentation
